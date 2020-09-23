@@ -1,0 +1,7 @@
+ Display:8×2 Characters
+LED Backlight:Blue/Yellow Green
+Module Outline Size: 58.0 * 32.0 *10.0
+View Area:37.8 *16.0
+Controller: SPLC78D
+Working temperature: -20~+70°C
+Storage temperature: -30~+80°C 
